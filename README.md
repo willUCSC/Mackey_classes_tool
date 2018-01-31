@@ -6,4 +6,5 @@ Usage:
 2. run the following command
 
 $ chmod +x getaverage.sh
+
 $ ./getaverage.sh
